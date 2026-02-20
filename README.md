@@ -4,7 +4,7 @@ Group Project for ITS 610204-sdg-3-Health and well-being
 Team Members & Roles
 - **Leader:** Name - 
 - **Member:** Name - Joshua Evidence and Github documentation
-- **Member:** Name - 
+- **Member:** Name - Darwin Evaluation and Testing 
 - **Member:** Name - 
 - **Member:** Name -
 - **Member:** Name - 
