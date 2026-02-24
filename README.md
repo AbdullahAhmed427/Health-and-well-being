@@ -2,15 +2,26 @@
 Group Project for ITS 610204-sdg-3-Health and well-being
 
 Team Members & Roles
-- **Leader:** Name - Abdulla Ahmed Abdullah Prototype
-- **Member:** Name - Joshua Evidence and Github documentation
-- **Member:** Name - Darwin Evaluation and Testing 
-- **Member:** Name - 
-- **Member:** Name -
-- **Member:** Name - 
+- **Leader:** Name - Abdulla Ahmed Abdullah - Prototype and Design
+- **Member:** Name - Joshua - Evidence and Github documentation
+- **Member:** Name - Darwin - Evaluation and Testing 
+- **Member:** Name - Baraa - Scrum + Coordination + Reflection
+- **Member:** Name - Zig - Requirment & Planning
+- **Member:** Name - Laisa - Use Case Diagram
 
 # Project Description
-This prototype aims to [briefly describe what your app does]. It targets [target audience, e.g., high school students] to help address challenges related to [your chosen SDG focus, e.g., learning access]. The core features include [list 2-3 key features].
+Project Description  
+Calm-Connect is a mobile-based software application, which will help to fill a very important gap in mental health care provision among university students in Malaysia.  
+
+The application is directly developed based on Sustainable Development Goal 3: Good Health and Well-Being (Target 3.4) and creates a personal and reliable digital ecosystem that promotes early prevention and self-care.
+
+The app focuses on young adults who are under high academic and personal stress, overcoming such obstacles as social stigma and financial burden which were revealed in our study where 62.5 per cent of students had never accessed campus counseling. Calm-Connect enables students to approach help with confidence by giving it a priority of 100 000 anonymity, which 81.3 percent of the surveyed users required.
+
+Core features include:  
+- Localised Booking Counsellor: An optimised platform to book sessions with counsellors at Taylor's university, such as Joshua, Zig, and Baraa.
+- Proactive Mood Tracker: Daily recording to allow the students to recognize degrading mental health.
+- Taylor Resource Library: A collection of campus wellness resources and coping mechanisms by Taylor.
+- Anonymous Peer Support: A safe place where students can express their emotional experiences and create a community.
 
 # Overview of Our SDLC Work
 - **Planning (Week 1):** We established our product vision, created the initial product backlog on Trello, and set up our collaboration tools.
