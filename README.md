@@ -24,7 +24,6 @@ This prototype aims to [briefly describe what your app does]. It targets [target
 - 
 - `/design` - Contains UML diagrams (UC & Class), wireframes, and mockups.
 - 
-- `/testing` - Contains prototype feedback and testing notes.
-             - Contains a link to a survery for stakeholders.
+- `/testing` - Contains prototype feedback and testing notes and a link to a Google Forms survery for stakeholders.
 - 
 - `/final` - Contains final prototype screenshots and summary of results.
